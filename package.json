@@ -1,7 +1,7 @@
 {
-  "name": "Ghosttys-bott",
+  "name": "ghosttys-bott",
   "version": "1.0.0",
-  "description": "Discord bot the best",
+  "description": "Discord bot Ghosttys bott with AI",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
